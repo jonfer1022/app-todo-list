@@ -1,0 +1,16 @@
+#my-profile-img, #my-profile-info {
+  display: inline-block;
+}
+
+#my-profile-img{
+  width: 40%;
+  .logo{
+    width: 100%;
+  }
+}
+
+#my-profile-info {
+  vertical-align: middle;
+  width: 60%;
+}
+

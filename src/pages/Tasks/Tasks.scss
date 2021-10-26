@@ -1,0 +1,41 @@
+.drag-main{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 1% 1% 1%;
+}
+
+.drag-title-main {
+  display: block;
+}
+
+.drag-title-main > div {
+  display: inline-block;
+  justify-content: space-evenly;
+  margin: 1%;
+  width: 31%;
+  text-align: center;
+  font-size: 1.4rem
+}
+
+.drag-div{
+  width: 34%;
+}
+
+.drag-title {
+  background: white;
+  padding: 1%;
+  border-radius: 8px 8px 0 0;
+  border-bottom: solid gray 1px;
+}
+
+.drag-description {
+  background: white;
+  padding: 1%;
+  border-radius: 0 0 8px 8px;
+}
+
+.drag-user{
+  margin: 0 1%;
+  background: lightgrey;
+  padding: 0.5%
+}

@@ -1,0 +1,27 @@
+.sign-up-form-title {
+  margin: 2% 0%;
+  font-family: 'poppins', sans-serif;
+  font-size: 3rem;
+  color: #333333;
+  line-height: 1.2;
+  text-align: center;
+  font-weight: 700;
+  width: 100%;
+  display: block;
+}
+
+.sign-up-name, .sign-up-lastName, .sign-up-cellphone, .sign-up-email, .sign-up-password {
+  font-size: 1.4rem;
+  margin: 1% 23%;
+  width: 55%;
+}
+
+#form-sign-up {
+  width: 100%;
+  text-align: center;
+}
+
+#sign-up-btn-confirm{
+  width: 55%;
+  margin: 2% 23%;
+}
